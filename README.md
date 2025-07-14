@@ -1,2 +1,3 @@
 # WeatherInfoProject
-This is a backend application for getting weather info details for pincode
+This is a Backend Rest API application to get weather information details for particular day and pincode.
+
