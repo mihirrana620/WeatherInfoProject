@@ -12,7 +12,7 @@ This is a Backend Rest API application to get weather information details for pa
 ## PostgreSQL DB results
 
 Pincode Location Table
-<img width="647" height="250" alt="image" src="https://github.com/user-attachments/assets/4a371c10-8396-43fa-b3ee-439963a30028" />
+<img width="923" height="222" alt="image" src="https://github.com/user-attachments/assets/4a371c10-8396-43fa-b3ee-439963a30028" />
 <br/>
 
 Weather info Table
